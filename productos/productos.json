@@ -1,0 +1,42 @@
+[
+    {
+        "nombre" : "Lapicera BIC negra",
+        "cod" : "000001",
+        "precio" : 800.00,
+        "proveedor" : "Libreria San Pablo",
+        "stock_actual" : 15,
+        "stock_minimo" : 10
+    },
+    {
+        "nombre" : "Lapicera BIC azul",
+        "cod" : "000002",
+        "precio" : 800.00,
+        "proveedor" : "Libreria San Pablo",
+        "stock_actual" : 12,
+        "stock_minimo" : 10
+    },
+    {
+        "nombre" : "Lapicera BIC verde",
+        "cod" : "000003",
+        "precio" : 800.00,
+        "proveedor" : "Libreria San Pablo",
+        "stock_actual" : 9,
+        "stock_minimo" : 10
+    },
+    {
+        "nombre" : "Resma Hojas A4",
+        "cod" : "000004",
+        "precio" : 8000.00,
+        "proveedor" : "Mebac!",
+        "stock_actual" : 8,
+        "stock_minimo" : 5
+    },
+    {
+        "nombre" : "Corrector Pelikan",
+        "cod" : "000005",
+        "precio" : 700.00,
+        "proveedor" : "Mebac!",
+        "stock_actual" : 13,
+        "stock_minimo" : 10
+    }
+]
