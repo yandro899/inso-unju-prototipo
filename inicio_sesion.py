@@ -1,5 +1,5 @@
 import clases as pc
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 
 """
     Ventana para recuperar la clave de usuario.
